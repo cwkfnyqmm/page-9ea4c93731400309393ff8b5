@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.rdaxxlh.cn/sitemap.xml
